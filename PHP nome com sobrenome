@@ -1,0 +1,6 @@
+<?php
+	$nome = 'Rodrigo';
+	$sobrenome = 'Jardim';
+	
+	echo "Seu nome é $nome $sobrenome";
+?>
